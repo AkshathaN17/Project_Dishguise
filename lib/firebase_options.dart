@@ -41,46 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDoAoSglA2UTx5XvJIZ_jjsVMZKtwvXdtw',
-    appId: '1:525623252385:web:e7937d8301989cefb667e0',
-    messagingSenderId: '525623252385',
-    projectId: 'dishguise-cc6a0',
-    authDomain: 'dishguise-cc6a0.firebaseapp.com',
-    storageBucket: 'dishguise-cc6a0.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'MSG_SENDER_ID',
+    projectId: 'PROJECT_ID',
+    authDomain: 'DOMAIN_NAME',
+    storageBucket: 'STORAGE_BUCKET_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCPDfJzKwa4BDLIcIjS3UnDdkafNmy5dSs',
-    appId: '1:525623252385:android:ce4ddc923c51f313b667e0',
-    messagingSenderId: '525623252385',
-    projectId: 'dishguise-cc6a0',
-    storageBucket: 'dishguise-cc6a0.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'MSG_SENDER_ID',
+    projectId: 'PROJECT_ID',
+    authDomain: 'DOMAIN_NAME',
+    storageBucket: 'STORAGE_BUCKET_ID',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1T5GYuujUeG9AnR6LBMTRpBM5xOfQaig',
-    appId: '1:525623252385:ios:5bb94450935260c7b667e0',
-    messagingSenderId: '525623252385',
-    projectId: 'dishguise-cc6a0',
-    storageBucket: 'dishguise-cc6a0.firebasestorage.app',
-    iosBundleId: 'com.example.recipe',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'MSG_SENDER_ID',
+    projectId: 'PROJECT_ID',
+    authDomain: 'DOMAIN_NAME',
+    storageBucket: 'STORAGE_BUCKET_ID',
+    iosBundleId: 'YOUR_ISO_BUNDLE_ID',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA1T5GYuujUeG9AnR6LBMTRpBM5xOfQaig',
-    appId: '1:525623252385:ios:5bb94450935260c7b667e0',
-    messagingSenderId: '525623252385',
-    projectId: 'dishguise-cc6a0',
-    storageBucket: 'dishguise-cc6a0.firebasestorage.app',
-    iosBundleId: 'com.example.recipe',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'MSG_SENDER_ID',
+    projectId: 'PROJECT_ID',
+    authDomain: 'DOMAIN_NAME',
+    storageBucket: 'STORAGE_BUCKET_ID',
+    iosBundleId: 'YOUR_ISO_BUNDLE_ID',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDoAoSglA2UTx5XvJIZ_jjsVMZKtwvXdtw',
-    appId: '1:525623252385:web:8e8fb3411ed6db07b667e0',
-    messagingSenderId: '525623252385',
-    projectId: 'dishguise-cc6a0',
-    authDomain: 'dishguise-cc6a0.firebaseapp.com',
-    storageBucket: 'dishguise-cc6a0.firebasestorage.app',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'MSG_SENDER_ID',
+    projectId: 'PROJECT_ID',
+    authDomain: 'DOMAIN_NAME',
+    storageBucket: 'STORAGE_BUCKET_ID',
   );
 }
