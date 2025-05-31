@@ -70,9 +70,6 @@ DISHGUISE aims to:
    git clone https://github.com/yourusername/dishguise.git
    cd dishguise
 =======
-# recipe
-
-A new Flutter project.
 
 ## Getting Started
 
